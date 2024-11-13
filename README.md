@@ -1,4 +1,4 @@
-# Gabriel_representante_Guilherme_Gustavo2
+# Gabriel_Guilherme_representante_Gustavo2
 
 Monitoramento de consumo de Energia Sustentável
 Este projeto visa monitorar e otimizar o consumo de energia limpa em uma comuinidade, verificando se as metas de consumo sustentável estão sendo cumpridas.
